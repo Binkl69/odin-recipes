@@ -1,0 +1,93 @@
+body {
+    background-color: antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.page {
+    padding: 20px 10px 20px 10px;
+    margin: 0 auto;
+    font-size: 100%;
+    font-weight: bold;
+    color: hotpink;
+    text-align: center;
+    align-self: center;
+    text-decoration: none;
+    display:table;
+}
+img {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+h1, h2 {
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+    text-decoration:underline;
+    
+    
+}
+
+h3 {
+    color: rgb(207, 121, 40);
+}
+
+p {
+    color: chocolate;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#Back-index {
+    text-align: center;
+    font-size: 40px;
+    display: block;
+    background-color: transparent;
+
+}
+a {
+    color:chocolate;
+    margin: 20px 10px 20px 10px;
+    background-color: rgb(25, 187, 187);
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: chocolate
+}
+
+a:hover {
+    color:blueviolet
+}
+
+a:active {
+    color: aqua;
+    font-size: auto;
+    padding: 15px 0 15px 0;
+}
+
+
+li {
+    margin: 20px 0 20px 0;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    list-style-position: inside;
+}
+
+ol, ul {
+    color: brown;
+    font-size: 30px;
+}
+
+.recipe {
+    list-style: none;
+    color: aliceblue;
+}
